@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Abdalla/Desktop/usea/Game-Marina_branch/Game/Assets/Scenes/Parte1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
